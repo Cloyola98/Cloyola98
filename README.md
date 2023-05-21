@@ -21,6 +21,6 @@
 
 
 
-[linkedin]: www.linkedin.com/in/cesar-loyola-24a351204
+[linkedin]: https://www.linkedin.com/in/cesar-loyola-24a351204/
 
 
