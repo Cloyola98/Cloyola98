@@ -4,6 +4,7 @@
 
 - <b>Azure / Cloud Projects </b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Cloyola98/Azure-SOC)
+  - [KQL-Queries](https://github.com/Cloyola98/KQL-Queries)
 
 <h2> 🤳 Connect with me:</h2>
 
