@@ -5,6 +5,7 @@
 - <b>Azure / Cloud Projects </b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Cloyola98/Azure-SOC)
   - [KQL-Queries](https://github.com/Cloyola98/KQL-Queries)
+  - [Azure Firewall](https://github.com/Cloyola98/Azure-Firewall)
 
 <h2> 🤳 Connect with me:</h2>
 
